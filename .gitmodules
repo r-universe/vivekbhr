@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "icetea"]
+	path = icetea
+	url = https://github.com/vivekbhr/icetea
+	shallow = true
+	registered = true
